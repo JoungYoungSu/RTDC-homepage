@@ -1,0 +1,29 @@
+{
+  "name": "rtdc-homepage",
+  "version": "0.0.1",
+  "description": "Homepage for 'Rich Toy Dragonz Club'",
+  "main": "main.js",
+  "scripts": {
+    "start": "sudo node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoungYoungSu/RTDC-homepage.git"
+  },
+  "keywords": [
+    "rtdc",
+    "richtoydragonzclub",
+    "mtdz",
+    "metatoydragonz"
+  ],
+  "author": "RTDC Developers",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JoungYoungSu/RTDC-homepage/issues"
+  },
+  "homepage": "https://www.richtoydragonzclub.com",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
